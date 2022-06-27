@@ -1,0 +1,14 @@
+[
+    {
+        "title": "异星灾变 第二季",
+        "parser": {
+            "type": "BTBTTParser",
+            "selector": 6,
+            "regex": "HMAX",
+            "url": "https://btbtt11.com/thread-index-fid-950-tid-4613873.htm"
+        },
+        "message": {
+            "type": "HTMLMessage"
+        }
+    }
+]
